@@ -59,6 +59,7 @@ require (
 	github.com/agiledragon/gomonkey v2.0.2+incompatible
 	github.com/onsi/ginkgo/v2 v2.6.0
 	github.com/pkg/errors v0.9.1
+	github.com/rqlite/gorqlite v0.0.0-20240211155050-c60860ae940b
 	go.opentelemetry.io/otel/trace v1.10.0
 	gopkg.in/square/go-jose.v2 v2.5.1
 	gopkg.in/yaml.v3 v3.0.1

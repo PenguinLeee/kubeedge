@@ -823,6 +823,10 @@ github.com/prometheus/common/model
 github.com/prometheus/procfs
 github.com/prometheus/procfs/internal/fs
 github.com/prometheus/procfs/internal/util
+# github.com/rqlite/gorqlite v0.0.0-20240211155050-c60860ae940b
+## explicit; go 1.17
+github.com/rqlite/gorqlite
+github.com/rqlite/gorqlite/stdlib
 # github.com/rubenv/sql-migrate v1.2.0
 ## explicit; go 1.16
 github.com/rubenv/sql-migrate

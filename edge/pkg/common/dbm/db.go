@@ -6,6 +6,7 @@ import (
 	"github.com/astaxie/beego/orm"
 	//Blank import to run only the init function
 	_ "github.com/mattn/go-sqlite3"
+	_ "github.com/rqlite/gorqlite/stdlib"
 	"k8s.io/klog/v2"
 )
 

@@ -875,6 +875,8 @@ github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6L
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rogpeppe/go-internal v1.8.0/go.mod h1:WmiCO8CzOY8rg0OYDC4/i/2WRWAB6poM+XZ2dLUbcbE=
 github.com/rogpeppe/go-internal v1.11.0 h1:cWPaGQEPrBb5/AsnsZesgZZ9yb1OQ+GOISoDNXVBh4M=
+github.com/rqlite/gorqlite v0.0.0-20240211155050-c60860ae940b h1:N3+m2Rbam2HWMg02ZQ2uRE1ad7ZWOKDNDcc6sztW1Cc=
+github.com/rqlite/gorqlite v0.0.0-20240211155050-c60860ae940b/go.mod h1:xF/KoXmrRyahPfo5L7Szb5cAAUl53dMWBh9cMruGEZg=
 github.com/rubenv/sql-migrate v1.2.0 h1:fOXMPLMd41sK7Tg75SXDec15k3zg5WNV6SjuDRiNfcU=
 github.com/rubenv/sql-migrate v1.2.0/go.mod h1:Z5uVnq7vrIrPmHbVFfR4YLHRZquxeHpckCnRq0P/K9Y=
 github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
